@@ -1,0 +1,12 @@
+C:\ShppingCartCS\ShppingCartCS\bin\ShppingCartCS.dll
+C:\ShppingCartCS\ShppingCartCS\bin\ShppingCartCS.pdb
+C:\ShppingCartCS\ShppingCartCS\obj\Debug\ResolveAssemblyReference.cache
+C:\ShppingCartCS\ShppingCartCS\obj\Debug\ShppingCartCS.dll
+C:\ShppingCartCS\ShppingCartCS\obj\Debug\ShppingCartCS.pdb
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\bin\ShppingCartCS.dll.config
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\bin\ShppingCartCS.dll
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\bin\ShppingCartCS.pdb
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\obj\Debug\ShppingCartCS.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\obj\Debug\ShppingCartCS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\obj\Debug\ShppingCartCS.dll
+C:\Users\USER\Desktop\ShppingCartCS\ShppingCartCS\obj\Debug\ShppingCartCS.pdb
